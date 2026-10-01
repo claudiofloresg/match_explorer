@@ -1,0 +1,14 @@
+# Credenciales
+.env
+.env.txt
+
+# Datos descargados de Opta
+data/raw/
+
+# Archivos generados
+data/build/*.json
+docs/index.html
+
+# Python
+__pycache__/
+*.pyc
