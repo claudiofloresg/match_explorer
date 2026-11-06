@@ -57,8 +57,8 @@ RAW_DIR = Path(__file__).parent / "data" / "raw"
 COMPETITIONS = [
     {"name": "Liga MX",          "tmcl": "9zum4nxferygj8bb0ldcavxn8"},
     {"name": "Liga MX Femenil",  "tmcl": "4nr8a6o18dpjqc9n6f6he5jx0"},
-    #{"name": "U21 League",       "tmcl": "emlv6gh33jv3a61lw7mad9xck"},
-    #{"name": "U19 League",       "tmcl": "avp1js728ktn7i45xiy5qhous"},
+    {"name": "U21 League",       "tmcl": "emlv6gh33jv3a61lw7mad9xck"},
+    {"name": "U19 League",       "tmcl": "avp1js728ktn7i45xiy5qhous"},
     #{"name": "U17 League",       "tmcl": "6b4002nj8u6uzdpp8cc7pf6z8"},
 ]
 
